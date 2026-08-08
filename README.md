@@ -45,7 +45,7 @@ Currently working on a novel federated learning framework that addresses data he
 ## 🌐 Connect with Me
 
 - **GitHub:** [@chulparyuvraj](https://github.com/chulparyuvraj)
-- **Kaggle:** [Competitor Profile](https://kaggle.com)
+- **Kaggle:** [yuvrajchulpar](https://www.kaggle.com/yuvrajchulpar)
 - **Email:** [chulparyuvraj38@gmail.com](mailto:chulparyuvraj38@gmail.com)
 
 ---
