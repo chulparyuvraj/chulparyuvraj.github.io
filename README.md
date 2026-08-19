@@ -50,4 +50,4 @@ Currently working on a novel federated learning framework that addresses data he
 
 ---
 
-*Last Updated: August 11, 2026*
+*Last Updated: August 19, 2026*
